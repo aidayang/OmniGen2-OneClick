@@ -43,6 +43,7 @@ OmniGen2是一个高效强大的一句话P图软件，软件可以通过输入�
 
 再使用多图编辑功能的时候，要设置输出图片的Height和Width尺寸
 
+视频效果演示：https://www.youtube.com/watch?v=evXaJ4LDq0A
 ## 注意事项
 软件运行路径及待处理文件路径和文件名中不要出现中文及空格，否则会报错
 
